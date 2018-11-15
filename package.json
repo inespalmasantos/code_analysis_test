@@ -1,0 +1,14 @@
+{
+  "name": "code_analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ines Santos",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
